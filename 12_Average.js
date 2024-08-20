@@ -7,4 +7,4 @@ function solution(arr) {
   }
   result = sum / arr.length;
   return result
-};
+}; 
