@@ -8,4 +8,4 @@ function solution(angle) {
     } else {
         return 4;    //평각
     }
-};
+}; 
