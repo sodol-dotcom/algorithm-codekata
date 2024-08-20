@@ -11,4 +11,4 @@ function solution(numbers) {
     // 배열의 요소의 합을 구하고 배열의 길이(요소의 개수)로 나눔
     average = sum / numbers.length;
     return average;
-}
+} 
