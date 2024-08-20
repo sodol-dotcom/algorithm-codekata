@@ -15,4 +15,4 @@ function solution(n) {
 
     // 최종 합계
     return answer;
-}
+} 
