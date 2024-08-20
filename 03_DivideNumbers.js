@@ -7,5 +7,5 @@ function solution(num1, num2) {
     else {
         answer = Math.floor(num1 / num2);
         return answer;
-    }
-}; 
+    } 
+};
