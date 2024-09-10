@@ -15,4 +15,4 @@ function solution(arr, divisor) {
 
     // 오름차순으로 정렬한 배열 반환
     return answer.sort((a, b) => a - b);
-}
+} 
