@@ -17,4 +17,3 @@ function solution(price, money, count) {
     let deficit = totalCost - money;
     return deficit > 0 ? deficit : 0;
 }
-설명:
